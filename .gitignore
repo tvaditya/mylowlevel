@@ -1,0 +1,10 @@
+# Object files
+*.o
+
+# Executables (binaries without extension)
+loops/loops
+basics/hello_world
+basics/nome
+basics/basicos
+basics/tipoendereco
+basics/definedata
